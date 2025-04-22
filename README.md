@@ -28,4 +28,6 @@ Dashboard created with Excel. Key tools used:
 - 🏢 **Company Size**
 - 🏠 **Job Modality**
 
+## Disclaimer
+This project is for viewing purposes only. Unauthorized copying, modification, or distribution of this work is strictly prohibited.
 
